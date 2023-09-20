@@ -26,19 +26,19 @@ Antes de executar este projeto, você precisará ter o seguinte instalado em sua
 
 2 - Execute o programa a partir do arquivo principal, por exemplo, Main.java.
 
-##Contribuições
+## Contribuições
 
 Como sou novo na programação Java, estou ansioso para aprender com a comunidade. Se você tiver sugestões, correções ou melhorias para o projeto, fique à vontade para abrir uma "issue" ou enviar um "pull request". Qualquer contribuição será muito apreciada!
 
-##Autor
+## Autor
 
 Victor Leopoldo
 
-##Licença
+## Licença
 
 Este projeto está sob a licença MIT.
 
-##Agradecimentos
+## Agradecimentos
 
 Agradeço a todos que me contrinuiram e que ainda vão contribuir no meu aprendizado em programação Java.
 Sinta-se à vontade para personalizar este README de acordo com seu projeto específico. Lembre-se de atualizá-lo conforme você avança em seu aprendizado e adiciona mais recursos ao seu projeto Java.
